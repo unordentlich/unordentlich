@@ -1,9 +1,9 @@
 <p align="center"><a href="#"><img width="75" src="https://i.imgur.com/nOD9kyu.png"></a></p>
 
 ### Hi there 👋
-<p float="left">My name is Jonas, I'm 16 years old and come from Germany! 👨‍💻</p>
+<p float="left">My name is Jonas and I come from Germany! 👨‍💻</p>
 <hr>
-- 🔭 I’m currently working on <a href="https://github.com/ReleviaDE">@ReleviaDE</a><br>
+- 🔭 I’m currently working on <i>nothing lol</i><br>
 - 🌱 I’m currently learning vue.js<br>
 - 🤔 I’m looking for help with Maven sometimes 🥴<br>
 - 💬 Ask me about some skills, how to forget your own projects and don't even care about it lmao<br>
