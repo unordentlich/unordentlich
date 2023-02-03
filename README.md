@@ -1,5 +1,3 @@
-<p align="center"><a href="#"><img width="75" src="https://i.imgur.com/nOD9kyu.png"></a></p>
-
 ### Hi there 👋
 <p float="left">My name is Jonas and I come from Germany! 👨‍💻</p>
 <hr>
