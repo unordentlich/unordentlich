@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with Maven sometimes 🥴<br>
 - 💬 Ask me about some skills, how to forget your own projects and don't even care about it lmao<br>
 - ⚡ Fun fact: I hate centering elements in CSS 🫶<br><br>
-<p align="center"><br><br><a href="#"><img src="https://lanyard.cnrad.dev/api/421671659146313729?idleMessage=I'm+doing+nothing+at+this+moment++🦕"></a></p>
 <p align="center"></p>
 
 
