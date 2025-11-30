@@ -9,4 +9,4 @@
 <p align="center"></p>
 
 
-<p align="center"><a href="https://discord.com/users/421671659146313729" target="_blank"><img src="https://img.shields.io/badge/Discord-jonas.de-blueviolet?style=flat&logo=discord&logoColor=white&color=5865F2"></a></p>
+<p><a href="https://discord.com/users/421671659146313729" target="_blank"><img src="https://img.shields.io/badge/Discord-jonas.de-blueviolet?style=flat&logo=discord&logoColor=white&color=5865F2"></a></p>
